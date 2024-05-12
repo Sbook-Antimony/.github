@@ -1,1 +1,1 @@
-![Antimony](antimony.png)
+![Antimony](/antimony.png)
